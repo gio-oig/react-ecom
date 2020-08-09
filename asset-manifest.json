@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.97daba1b.chunk.css",
-    "main.js": "/static/js/main.f7a9ea01.chunk.js",
-    "main.js.map": "/static/js/main.f7a9ea01.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab4c3947.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab4c3947.js.map",
-    "static/js/2.4b1a02a1.chunk.js": "/static/js/2.4b1a02a1.chunk.js",
-    "static/js/2.4b1a02a1.chunk.js.map": "/static/js/2.4b1a02a1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1b8b0b19da8c266a62d24319cfca36eb.js": "/precache-manifest.1b8b0b19da8c266a62d24319cfca36eb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.97daba1b.chunk.css.map": "/static/css/main.97daba1b.chunk.css.map",
-    "static/js/2.4b1a02a1.chunk.js.LICENSE.txt": "/static/js/2.4b1a02a1.chunk.js.LICENSE.txt",
-    "static/media/11.2 shopping-bag.svg.30f07071.svg": "/static/media/11.2 shopping-bag.svg.30f07071.svg",
-    "static/media/crown.ed28accb.svg": "/static/media/crown.ed28accb.svg"
+    "main.css": "/react-ecom/static/css/main.97daba1b.chunk.css",
+    "main.js": "/react-ecom/static/js/main.f7a9ea01.chunk.js",
+    "main.js.map": "/react-ecom/static/js/main.f7a9ea01.chunk.js.map",
+    "runtime-main.js": "/react-ecom/static/js/runtime-main.e0a0d9ac.js",
+    "runtime-main.js.map": "/react-ecom/static/js/runtime-main.e0a0d9ac.js.map",
+    "static/js/2.e794144d.chunk.js": "/react-ecom/static/js/2.e794144d.chunk.js",
+    "static/js/2.e794144d.chunk.js.map": "/react-ecom/static/js/2.e794144d.chunk.js.map",
+    "index.html": "/react-ecom/index.html",
+    "precache-manifest.27e386edb3f73c3fabd29dbd42f4841c.js": "/react-ecom/precache-manifest.27e386edb3f73c3fabd29dbd42f4841c.js",
+    "service-worker.js": "/react-ecom/service-worker.js",
+    "static/css/main.97daba1b.chunk.css.map": "/react-ecom/static/css/main.97daba1b.chunk.css.map",
+    "static/js/2.e794144d.chunk.js.LICENSE.txt": "/react-ecom/static/js/2.e794144d.chunk.js.LICENSE.txt",
+    "static/media/11.2 shopping-bag.svg.30f07071.svg": "/react-ecom/static/media/11.2 shopping-bag.svg.30f07071.svg",
+    "static/media/crown.ed28accb.svg": "/react-ecom/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab4c3947.js",
-    "static/js/2.4b1a02a1.chunk.js",
+    "static/js/runtime-main.e0a0d9ac.js",
+    "static/js/2.e794144d.chunk.js",
     "static/css/main.97daba1b.chunk.css",
     "static/js/main.f7a9ea01.chunk.js"
   ]
